@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#front-end Developer
+## front-end Developer
 
 - 🔭 I’m currently working on drugs.site
 - 🌱 I’m currently learning: c#
